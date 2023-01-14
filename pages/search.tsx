@@ -66,7 +66,7 @@ import {
             <Heading>Loading...</Heading>
           </Box>
         ) : (
-          <Box background="#191919">
+          <Box background="white">
             <Nav />
             <Center marginTop="3vh">
               <Box>
