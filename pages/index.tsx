@@ -93,7 +93,7 @@ const Home: NextPage = () => {
       </Box>
         </Center>
         <hr />
-        <Footer/>
+        {/* <Footer/> */}
     </Box>
   );
 };
